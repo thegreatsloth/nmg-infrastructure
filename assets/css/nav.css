@@ -1,0 +1,6 @@
+.dropdown ul.submenu {
+    display: none;
+}
+.dropdown:hover ul.submenu{
+    display: block;
+}
